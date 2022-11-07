@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center"> Data Systematization Technology📚 | Student at the District Univeristity♥🧡 | Bogotá, Colombia </h3>
+<h3 align="center"> Data Systematization Technology📚 | Student at the UD♥🧡 | Bogotá, Colombia </h3>
 <p>
     <img align="right" width="260" height="160"src="https://github.com/yohav08/yohav08/blob/main/study.gif" alt="Study">
     <li> You can find personal and school projects here. 📖 <br><br> </li> 
