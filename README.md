@@ -1,14 +1,18 @@
 <h1 align="center">
   ¡Hi! I'm Yohana Avila 🙋🏻‍♀️
   <br>
-  <img class="centerImage" width="200" height="200" src="https://github.com/yohav08/yohav08/blob/main/hi.gif" alt="Hello">
+  <img class="centerImage" width="180" height="180" src="https://github.com/yohav08/yohav08/blob/main/hi.gif" alt="Hello">
 </h1>
 
-  <h3 align="center"> Data Systematization Technology📚 | Student at the District Univeristity♥🧡 | Bogotá, Colombia </h3>
-  <p> <li> You can find personal and school projects here. 📖 </li> </p>
-  <p> <li> I'm interested in learning frontend and database technologies. 💻 </li> </p>
-  <p> <li> If you want to know more 'bout me you can send me an email to yohana.avila3009@gmail.com 📩 </li> </p>
-<br>
+
+<h3 align="center"> Data Systematization Technology📚 | Student at the District Univeristity♥🧡 | Bogotá, Colombia </h3>
+<p>
+    <img align="right" width="260" height="160"src="https://github.com/yohav08/yohav08/blob/main/study.gif" alt="Study">
+    <li> You can find personal and school projects here. 📖 <br><br> </li> 
+    <li> I'm interested in learning frontend and database technologies. 💻 <br><br> </li>
+    <li> If you want to know more 'bout me you can send me an email to yohana.avila3009@gmail.com 📩 <br><br> </li> 
+</p>
+
 <h2 align="left"> 📲 Connect with me 📲 </h2>
   <p align="left">
     <a href="https://twitter.com/yohav08" target="blank">
@@ -27,7 +31,6 @@
 
 <br> 
 <h2 align="left"> 🛠 Skills 🛠 </h2>
-
 <h3>
     Programming Languages
     <p align="left"> 
@@ -36,7 +39,6 @@
         </a> 
     </p>
 </h3>
-
 <h3>
     Frontend Development
     <p align="left"> 
@@ -48,7 +50,6 @@
         </a> 
     </p>
 </h3>
-
 <h3>
     Database
     <p align="left"> 
@@ -61,3 +62,9 @@
     </p>
 </h3>
 
+<br> 
+<h3 align="center"> 
+  
+  [![Yohana Avila's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yohav08&theme=radical&show_icons)](https://github.com/yohav08/github-readme-stats#gh-dark-mode-only)
+  
+</h3>
