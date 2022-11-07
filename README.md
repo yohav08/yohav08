@@ -1,5 +1,5 @@
 <h1 align="center">
-  ¡Hi! I'm Yohana Avila 🙋🏻‍♀️
+  ¡Hi! I'm Yohana Avila
   <br>
   <img class="centerImage" width="180" height="180" src="https://github.com/yohav08/yohav08/blob/main/hi.gif" alt="Hello">
 </h1>
