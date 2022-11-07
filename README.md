@@ -11,8 +11,7 @@
     <li> You can find personal and school projects here. 📖 <br><br> </li> 
     <li> I'm interested in learning frontend and database technologies. 💻 <br><br> </li>
     <li> If you want to know more 'bout me you can send me an 
-        <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=yohana.avila3009@gmail.com">email. </a> 
-        📩 <br><br> 
+        <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=yohana.avila3009@gmail.com">email. </a> 📩 <br><br> 
     </li> 
 </p>
   
