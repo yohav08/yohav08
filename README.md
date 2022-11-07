@@ -2,12 +2,15 @@
     <img class="centerImage" width="180" height="180" src="https://github.com/yohav08/yohav08/blob/main/hi.gif" alt="Hello">
 </h1>
   
-<h3 align="center"> Data Systematization Technology📚 | Student at the UD♥🧡 | Bogotá, Colombia </h3>
+<h3 align="center"> 
+    Data Systematization Technology📚 | Student at the UD♥🧡 | Bogotá, Colombia <img  width="25" height="25" src="https://github.com/yohav08/yohav08/blob/main/colombia.png" alt="co">
+</h3>
+
 <p>
-<img align="right" width="260" height="160"src="https://github.com/yohav08/yohav08/blob/main/study.gif" alt="Study">
-<li> You can find personal and school projects here. 📖 <br><br> </li> 
-<li> I'm interested in learning frontend and database technologies. 💻 <br><br> </li>
-<li> If you want to know more 'bout me you can send me an email to yohana.avila3009@gmail.com 📩 <br><br> </li> 
+    <img align="right" width="260" height="160"src="https://github.com/yohav08/yohav08/blob/main/study.gif" alt="Study">
+    <li> You can find personal and school projects here. 📖 <br><br> </li> 
+    <li> I'm interested in learning frontend and database technologies. 💻 <br><br> </li>
+    <li> If you want to know more 'bout me you can send me an email to yohana.avila3009@gmail.com 📩 <br><br> </li> 
 </p>
   
 <h2 align="left"> 📲 Connect with me 📲 </h2>
