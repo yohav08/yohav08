@@ -63,16 +63,8 @@
     </p>
 </h3>
 
-<h2 align="center"></h2>
+<h3 align="center">GITHUB STATS<hr/></h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yohav08&theme=radical&show_icons=true&line_height=27&" alt="yohav08" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohav08&theme=radical&,dockerfile" alt="yohav08" />
 
-<div align="center">
-<span>
-    
-  [![Yohana Avila's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yohav08&theme=radical&show_icons)](https://github.com/yohav08/github-readme-stats#gh-dark-mode-only)
-</span>
-<span>
-    
-  [![Yohana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohav08&layout=compact)](https://github.com/yohav08/github-readme-stats)
-</span>
-</div>
 
