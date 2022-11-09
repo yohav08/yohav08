@@ -30,9 +30,8 @@
     <a href="https://www.hackerrank.com/yohav08" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yohav08" height="30" width="40" /></a>
 </p>
-  
-<br> 
-<h2 align="left"> 🛠 Skills 🛠 </h2>
+ 
+<h2 align="left"><br>🛠 Skills 🛠 </h2>
 <h3> Programming Languages
     <p align="left"> 
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -63,6 +62,6 @@
     </p>
 </h3>
 
-<h2 align="left">🌟 Github Stats 🌟</h2>
+<h2 align="left"><br>🌟 Github Stats 🌟</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yohav08&theme=radical&show_icons=true&line_height=27&" alt="yohav08" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohav08&theme=radical&,dockerfile" alt="yohav08" />
