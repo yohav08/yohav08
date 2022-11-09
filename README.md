@@ -63,8 +63,6 @@
     </p>
 </h3>
 
-<h3 align="center">GITHUB STATS<hr/></h3>
+<h2 align="left">🌟 Github Stats 🌟</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yohav08&theme=radical&show_icons=true&line_height=27&" alt="yohav08" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohav08&theme=radical&,dockerfile" alt="yohav08" />
-
-
