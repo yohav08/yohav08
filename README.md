@@ -1,9 +1,15 @@
-<h1 align="center"> ¡Hi! I'm Yohana Avila <br>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=E53D83&center=true&vCenter=true&width=435&lines=%C2%A1Hi!+%F0%9F%91%8B%F0%9F%8F%BB;+I'm+Yohana+Avila;I'm+from+Colombia" alt="Typing SVG" />
+    </a>
+</p>
+
+<h1 align="center">
     <img class="centerImage" width="180" height="180" src="https://github.com/yohav08/yohav08/blob/main/hi.gif" alt="Hello">
 </h1>
   
 <h3 align="center"> 
-    Data Systematization Technology📚 | Student at the UD♥🧡 | Bogotá, Colombia <img  width="25" height="25" src="https://github.com/yohav08/yohav08/blob/main/colombia.png" alt="co">
+    Data Systematization Technology📚 | Student at the UD♥🧡
 </h3>
 
 <p>
