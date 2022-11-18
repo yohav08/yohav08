@@ -1,10 +1,8 @@
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=E53D83&center=true&vCenter=true&width=435&lines=%C2%A1Hi!+I'm+Yohana+Avila;I'm+from+Colombia" alt="Typing SVG" />
-    </a>
-</p>
-
 <h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=800&color=E53D83&center=true&vCenter=true&width=435&lines=%C2%A1Hi!+I'm+Yohana+Avila;I'm+from+Colombia" alt="Typing SVG"/>
+    </a>
+    <br>
     <img class="centerImage" width="180" height="180" src="https://github.com/yohav08/yohav08/blob/main/hi.gif" alt="Hello">
 </h1>
   
