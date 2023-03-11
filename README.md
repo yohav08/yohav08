@@ -82,4 +82,4 @@
 
 <h2 align="left"><br>🌟 Github Stats 🌟</h2>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yohav08&count_private=true&theme=radical&show_icons=true&hide_border=true&line_height=27&" alt="yohav08" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohav08&theme=radical&hide_border=true&,dockerfile" alt="yohav08" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohav08&count_private=true&theme=radical&hide_border=true&,dockerfile" alt="yohav08" />
