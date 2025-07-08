@@ -7,7 +7,7 @@
 </h1>
   
 <h3 align="center"> 
-    Data Systematization Technology📚 | Student at the UD♥🧡
+    Telematics Engineer 📚 | Student at the UD♥🧡
 </h3>
 
 <p>
